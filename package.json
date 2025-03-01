@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME",
+  "homepage": "https://automontronic.github.io/JSONFormatter/",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
